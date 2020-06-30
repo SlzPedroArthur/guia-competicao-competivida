@@ -24,7 +24,7 @@ Aqui ficará o paragrafo com o nosso pitch.
 
 Faz uma introdução do projeto. Explica como usar o guia.
 
-# Fundamentos
+## Fundamentos
 tag para ir para parte específica, tag com link para compartilhar
 
 ### 🔢 Matemática
@@ -39,21 +39,25 @@ tag para ir para parte específica, tag com link para compartilhar
 
 ## Algoritmos e Problemas Clássicos da Computação
 
-## Treinamento
 
+## Treinamento (a partir daqui tiago)
+
+(falar com colegas*)
 ## Erros Comuns
 
+(falar com colegas*)
 ## Comunidade
 
 ## Dicas de campeões
 
+(falar com colegas*)
 ##  Agradecimentos
 
 ## Contribua
 
 > Você pode seguir as instruções abaixo para fazer suas contribuições
 
-- Inicie um Pull Request 
+- Inicie um Pull Request (link instrucoes pull request)
 - Prepare-se para discutir problemas!
 - Espalhe a palavra e ajude a comunidade a crescer!
 - Entre em contato sempre que necessário
